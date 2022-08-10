@@ -1,0 +1,36 @@
+html,body{
+    font-family: "Heebo" sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color:#E5E5E5 ;
+}
+h3,h2,h1,p,h4{
+    margin:0px;
+}
+header nav{
+    height: 50px;
+    background-color: #fff;
+    display: flex;
+    justify-content: right;
+}
+header nav ul{
+    margin:0px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-right: 60px;
+}
+header nav li{
+    list-style-type: none;
+}
+header nav li a{
+    text-decoration:none;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #000000;
+}
+/* Hero Section */
