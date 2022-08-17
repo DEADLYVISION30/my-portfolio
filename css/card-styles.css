@@ -112,3 +112,24 @@ header nav li a{
     color: #00A8CC;
     text-decoration: none;
 }
+.post-item{
+    display: flex;
+    gap: 20px;
+}
+.post-item article{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+    padding: 24px;
+}
+.post-item h3{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
