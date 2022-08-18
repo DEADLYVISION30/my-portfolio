@@ -2,7 +2,7 @@ html,body{
     font-family: "Heebo";
     margin: 0px;
     padding: 0px;
-    background: #e5e5e5; ;
+    background: #e5e5e5;
     font-style: bold;
 }
 h3,h2,h1,p,h4{
@@ -128,8 +128,26 @@ header nav li a{
     font-weight: 700;
     font-size: 26px;
     line-height: 38px;
-
-    /* Dark Color */
-
     color: #21243D;
+    padding-bottom: 17px;
+}
+.post-item div{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #21243D;
+    padding-bottom: 11px;
+}
+.post-item p{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+    padding-right: 27px;
+    padding-bottom: 7px;
+    color: #21243D
 }
