@@ -260,6 +260,8 @@ header nav li a{
     .featured-section .featured-inner .featured-list .featured-item{
         display: flex;
         flex-direction: column;
+        margin-left: 10px;
+        margin-right: 10px;
     }
   }
 
