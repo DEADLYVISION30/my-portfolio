@@ -213,6 +213,9 @@ header nav li a{
     color: #8695A4;
 
 }
+.articlelink{
+    text-decoration: none;
+}
 .featured-item .fs-left img{
     max-width: 246px;
     max-height: 180px;
